@@ -6,3 +6,5 @@ pi-dev-backend/src/main/resources/application-dev.properties
 # Fichiers sensibles à ne jamais committer
 **/application.properties
 **/IaFarmService.java
+node_modules/
+meddhiaalaya/
